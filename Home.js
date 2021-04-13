@@ -137,7 +137,7 @@ export default function Home() {
         </View>
         
         <View style={{justifyContent:'center',alignItems:'center',marginTop:10,marginBottom:10}}>
-          <Text style={{backgroundColor:'#ccc',fontSize:15,fontWeight:600}}>View more</Text>
+          <Text style={{backgroundColor:'#ccc',fontSize:15,fontWeight:"bold"}}>View more</Text>
         </View>
       </ScrollView>
       <Menubottom />
