@@ -2,7 +2,6 @@ import React from 'react'
 import { View, Text, TouchableOpacity, FlatList, Image, StyleSheet, SafeAreaView, ScrollView, TextInput, } from 'react-native'
 import Ionicons from 'react-native-vector-icons/Ionicons';
 import MaterialCommunityIcons from 'react-native-vector-icons/MaterialCommunityIcons';
-import Menubottom from './MenuBottom'
 const DATA1 = [
   {
     id: 1,
@@ -148,7 +147,7 @@ export default function Home() {
           <Text style={{backgroundColor:'#ccc',fontSize:15,fontWeight:"bold"}}>View more</Text>
         </View>
       </ScrollView>
-      <Menubottom />
+
     </View>
 
   )
