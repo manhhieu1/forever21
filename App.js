@@ -1,5 +1,5 @@
 // You can import Ionicons from @expo/vector-icons if you use Expo or
-// react-native-vector-icons/Ionicons otherwise.vvv
+// react-native-vector-icons/Ionicons otherwise.vvvv
 import * as React from 'react';
 import { Text, View } from 'react-native';
 import Ionicons from 'react-native-vector-icons/Ionicons';
